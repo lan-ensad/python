@@ -1,0 +1,162 @@
+{
+    "d1": {
+        "GyroX": "294",
+        "GyroY": "141",
+        "GyroZ": "319",
+        "AccelX": "207",
+        "AccelY": "89",
+        "AccelZ": "233"
+    },
+    "d2": {
+        "GyroX": "221",
+        "GyroY": "135",
+        "GyroZ": "63",
+        "AccelX": "246",
+        "AccelY": "237",
+        "AccelZ": "177"
+    },
+    "d3": {
+        "GyroX": "57",
+        "GyroY": "304",
+        "GyroZ": "13",
+        "AccelX": "253",
+        "AccelY": "5",
+        "AccelZ": "128"
+    },
+    "d4": {
+        "GyroX": "284",
+        "GyroY": "173",
+        "GyroZ": "300",
+        "AccelX": "176",
+        "AccelY": "305",
+        "AccelZ": "332"
+    },
+    "d5": {
+        "GyroX": "211",
+        "GyroY": "111",
+        "GyroZ": "98",
+        "AccelX": "305",
+        "AccelY": "37",
+        "AccelZ": "136"
+    },
+    "d6": {
+        "GyroX": "335",
+        "GyroY": "209",
+        "GyroZ": "346",
+        "AccelX": "77",
+        "AccelY": "64",
+        "AccelZ": "141"
+    },
+    "d7": {
+        "GyroX": "302",
+        "GyroY": "277",
+        "GyroZ": "199",
+        "AccelX": "149",
+        "AccelY": "191",
+        "AccelZ": "94"
+    },
+    "d8": {
+        "GyroX": "116",
+        "GyroY": "117",
+        "GyroZ": "119",
+        "AccelX": "210",
+        "AccelY": "31",
+        "AccelZ": "90"
+    },
+    "d9": {
+        "GyroX": "116",
+        "GyroY": "124",
+        "GyroZ": "107",
+        "AccelX": "165",
+        "AccelY": "281",
+        "AccelZ": "174"
+    },
+    "d10": {
+        "GyroX": "327",
+        "GyroY": "202",
+        "GyroZ": "192",
+        "AccelX": "357",
+        "AccelY": "351",
+        "AccelZ": "158"
+    },
+    "d11": {
+        "GyroX": "204",
+        "GyroY": "305",
+        "GyroZ": "37",
+        "AccelX": "189",
+        "AccelY": "314",
+        "AccelZ": "95"
+    },
+    "d12": {
+        "GyroX": "236",
+        "GyroY": "344",
+        "GyroZ": "49",
+        "AccelX": "36",
+        "AccelY": "98",
+        "AccelZ": "81"
+    },
+    "d13": {
+        "GyroX": "182",
+        "GyroY": "315",
+        "GyroZ": "259",
+        "AccelX": "281",
+        "AccelY": "332",
+        "AccelZ": "256"
+    },
+    "d14": {
+        "GyroX": "175",
+        "GyroY": "344",
+        "GyroZ": "3",
+        "AccelX": "340",
+        "AccelY": "107",
+        "AccelZ": "36"
+    },
+    "d15": {
+        "GyroX": "71",
+        "GyroY": "52",
+        "GyroZ": "17",
+        "AccelX": "106",
+        "AccelY": "197",
+        "AccelZ": "215"
+    },
+    "d16": {
+        "GyroX": "295",
+        "GyroY": "136",
+        "GyroZ": "127",
+        "AccelX": "30",
+        "AccelY": "63",
+        "AccelZ": "57"
+    },
+    "d17": {
+        "GyroX": "78",
+        "GyroY": "107",
+        "GyroZ": "90",
+        "AccelX": "310",
+        "AccelY": "244",
+        "AccelZ": "262"
+    },
+    "d18": {
+        "GyroX": "301",
+        "GyroY": "269",
+        "GyroZ": "179",
+        "AccelX": "253",
+        "AccelY": "170",
+        "AccelZ": "334"
+    },
+    "d19": {
+        "GyroX": "174",
+        "GyroY": "280",
+        "GyroZ": "283",
+        "AccelX": "289",
+        "AccelY": "21",
+        "AccelZ": "192"
+    },
+    "d20": {
+        "GyroX": "12",
+        "GyroY": "14",
+        "GyroZ": "45",
+        "AccelX": "45",
+        "AccelY": "169",
+        "AccelZ": "84"
+    }
+}
