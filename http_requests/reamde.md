@@ -1,3 +1,45 @@
-```
-pip install requests
-```
+https://openweathermap.org/current
+
+- coord
+  - coord.lon
+  - coord.lat
+- weather
+  - .id Weather condition id
+  - .main <br/>Group of weather parameters (Rain, Snow, Extreme etc.)
+  - .description <br/>Weather condition within the group. You can get the output in your language. 
+  - .icon
+- base <br/> Internal parameter
+- main
+  - .temp
+  - .feels_like
+  - pressure <br/>Atmospheric pressure (on the sea level, if there is no sea_level or grnd_level data), hPa
+  - humidity <br/> Humidity, %
+  - temp_min
+  - temp_max
+  - sea_level <br/>Atmospheric pressure on the sea level, hPa
+  - grnd_level <br/>Atmospheric pressure on the ground level, hPa
+- visibility <br/> Visibility, meter. The maximum value of the visibility is 10km
+- wind
+  - .speed
+  - .deg <br/>Wind direction, degrees (meteorological)
+  - .gust <br/> Wind gust. Unit Default: meter/sec, Metric: meter/sec, Imperial: miles/hour
+- clouds
+  - .all <br/>Cloudiness, %
+- rain
+  - .1h <br/>Rain volume for the last 1 hour, mm
+  - .3h <br/>Rain volume for the last 3 hour, mm
+- snow
+  - .1h
+  - .3h
+- dt <br/>Time of data calculation, unix, UTC
+- sys
+  - .type <br/>Internal parameter
+  - .id
+  - .message
+  - .country
+  - .sunrise
+  - .sunset
+- timezone
+- id
+- name
+- cod
