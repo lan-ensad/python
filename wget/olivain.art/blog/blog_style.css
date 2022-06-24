@@ -1,0 +1,39 @@
+
+@font-face {
+  font-family: 'Roboto2014';
+  src: url('fonts/Roboto-Regular.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+html, body {
+  width: 99%;
+  height: auto;
+  background-color: black;
+}
+
+h1 {
+  color: black;
+  font-family: Roboto2014;
+}
+
+img { max-width: 50%; margin-left: 25%; }
+
+p {
+  color: black;
+  width: 90%;
+  margin-left: 5%;
+}
+
+a{
+  color: DodgerBlue;
+}
+
+pre {
+  width: 100%;
+}
+#main_div {
+  background-color: white;
+  width: 80%;
+  height: auto;
+  margin-left: 10%;
+  padding: 10px;
+}
